@@ -341,7 +341,7 @@ IG_UI_PL = {
     IGUI_Gametime_Studio = "Studio filmowe",
     IGUI_Gametime_Survival = "Przetrwanie",
     IGUI_Gametime_SurvivedFor = "Udało ci się przeżyć %1.",
-    IGUI_Gametime_Survivor = "Apokalipsa",
+    IGUI_Gametime_Survivor = "Ocalały",
     IGUI_Gametime_The Descending Fog = "Nieprzenikniona mgła",
     IGUI_Gametime_Tutorial = "Samouczek",
     IGUI_Gametime_Winter is Coming = "Nadciąga zima",
@@ -949,8 +949,8 @@ IG_UI_PL = {
     IGUI_ServerToolBox_Invite1 = "Aby zaprosić znajomych:",
     IGUI_ServerToolBox_Invite2 = "1. Wciśnij ESC i kliknij menu zaproszeń.",
     IGUI_ServerToolBox_Invite3 = "2. Kliknij dwa razy na zapraszanej osobie, aby dodać ją do whitelisty i wysłać zaproszenie.",
-    IGUI_ServerToolBox_Invite4 = "Zalecamy, aby zapraszana osoba nie miała włączonej gry, by Steam mógł sam ją uruchomić.",
-    IGUI_ServerToolBox_Invite5 = "Zaproszenia wyświetlają się jako okna dialogowe pytające o uruchomienie gry ze specjalnymi parametrami albo jako okno czatu.",
+    IGUI_ServerToolBox_Invite4 = "Zalecamy, aby zapraszana osoba nie miała włączonej gry. Gra zostanie uruchomiona automatycznie przez Steam.",
+    IGUI_ServerToolBox_Invite5 = "Zaproszenia wyświetlają się jako okna dialogowe z zapytaniem o uruchomienie gry ze specjalnymi parametrami albo jako okno czatu.",
     IGUI_ServerToolBox_ServerAddress = "Adres zewnętrzny serwera: %1",
     IGUI_ServerToolBox_Status = "--- Wiadomości stanu serwera ---",
     IGUI_ServerToolBox_SteamID = "Steam ID serwera: %1",
@@ -1605,5 +1605,14 @@ IG_UI_PL = {
 	IGUI_ItemCat_Squirrel = "Wiewiórka"
 	IGUI_Sleep_NotSafe = "To nie jest bezpieczne miejsce do spania.",
 			
-	
+	IGUI_RequestID_ConnectionDetails = "szczegóły połączenia",
+	IGUI_RequestID_Descriptors = "informacje o odzieży",
+	IGUI_RequestID_MetaGrid = "dane meta mapy",
+	IGUI_RequestID_MapZone = "strefa mapy",
+	IGUI_RequestID_PlayerZombieDescriptors = "deskryptory zombie",
+	IGUI_RequestID_RadioData = "dane radia",
+	IGUI_MP_DownloadedLargeFile = "Odebrano %1% z %2.",
+	IGUI_UserPanel_ShowConnectionInfo = "Pokaż informacje o połączeniu",
+	IGUI_UserPanel_ShowServerInfo = "Pokaż informacje o serwerze",
+	IGUI_UserPanel_ShowPingInfo = "Pokaż informacje o pingu",
 }
