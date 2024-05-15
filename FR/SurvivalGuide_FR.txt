@@ -84,16 +84,16 @@ SurvivalGuide_FR = {
     SurvivalGuide_entrie11txt = " <CENTRE> "<SIZE:large> #11 - LE RECHERCHE <LINE> <IMAGECENTRE:media/ui/spiffo/spiffoSurvivor2.png> <LINE> <SIZE:medium> Le monde est rempli de choses utiles si vous savez où, quand et comment regarder ! <LINE> <LINE> Des baies, des champignons, des pierres... Qui sait ce que vous allez trouver en fouillant au bon endroit ?",
     SurvivalGuide_entrie11moreinfo = " <H1> LE SYSTÈME DE RECHERCHE <BR> " ..
                                      " <TEXT> <SIZE:small>" ..
-                                     " La fenêtre de Zone d'exploration vous montrera dans quelle zone vous vous trouvez. Cela impacte le butin que vous pourrez trouver." ..
-                                     " Passez votre souris sur la fenêtre afin d'inspecter les catégories de butin que vous pouvez potentiellement trouver dans la zone actuelle où vous vous trouvez." ..
+                                     " La fenêtre de d'Exploration vous montrera dans quelle zone vous vous situez. Cela impacte le butin que vous pourrez trouver." ..
+                                     " Passez votre souris sur la fenêtre afin d'inspecter les catégories de butin que vous pouvez potentiellement trouver dans la zone actuelle où vous vous situez." ..
                                      " Si vous voyez "?????", cela signifie qu'il n'y aura rien à trouver ici. <LINE> <LINE> " ..
                                      " <LINE> <IMAGECENTRE:media/textures/Foraging/guideImages/investigateArea.png> <LINE> " ..
-                                     " Pour commencer vos recherches, cliquez sur "Activer l'exploration". Le rayon de recherche apparaîtra alors. Cela délimite la zone dans laquelle votre survivant peut repérer des choses. <LINE> <LINE>" ..
+                                     " Pour commencer vos recherches, cliquez sur "Activer le mode de recherche". Le rayon de recherche apparaîtra alors. Cela délimite la zone dans laquelle votre survivant peut repérer des choses. <LINE> <LINE>" ..
                                      " Une petite flèche indiquant un objet apparaîtra lorsque le survivant aura repéré quelque chose. Une icône d'oeil apparaîtra lorsque votre personnage approchera afin de définir exactement ce que c'est. <LINE> <LINE>" ..
                                      " Double cliquez sur votre trouvaille pour la ramasser. Faites un clic droit dessus pour plus d'options de ramassage. <LINE> <LINE> " ..
                                      " <LINE> <IMAGECENTRE:media/textures/Foraging/guideImages/spottingItems.png> <LINE> " ..
                                      " <SIZE:medium> <CENTRE> AMÉLIORER VOTRE RECHERCHE <TEXT> <BR> " ..
-                                     " Regarder aux alentours (en visant) et vous accroupir, améliorent tout deux votre rayon de recherche. L'obscurité, les éléments météo, vos connaissances, la taille de l'objet, et vos états négatifs (la panique, les blessures, etc.) affecteront la visibilité des objets à trouver. <LINE> <LINE> " ..
+                                     " Regarder aux alentours en visant ou vous accroupir, améliorent tout deux votre rayon de recherche. L'obscurité, les éléments météo, vos connaissances, la taille de l'objet, et vos états négatifs (la panique, les blessures, etc) affecteront la visibilité des objets à trouver. <LINE> <LINE> " ..
                                      " <LINE> <IMAGECENTRE:media/textures/Foraging/guideImages/spriteAffinities.png> <LINE> " ..
                                      " <SIZE:medium> <CENTRE> IMPORTANT ! <TEXT> <BR> " ..
                                      " Assurez-vous de vérifier les emplacements pertinents et logiques !" ..
